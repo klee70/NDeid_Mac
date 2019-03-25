@@ -8,12 +8,12 @@ NDeid is a standalone identification scrubber program which doesn't require tens
 
 To use NDeid, download the repository into ZIP file and run the following commands from the terminal: 
 ```
-unzip NDeid_Mac-master.zip
-cd NDeid_Mac-master
+unzip NDeid_mac-master.zip
+cd NDeid_mac-master
 unzip lib.zip
 ```
 
-To get offsets of PHIs from '.txt' files, place target files under 'NDeid_Mac-master/target' folder.
+To get offsets of PHIs from '.txt' files, place target files under 'NDeid_mac-master/target' folder.
 
 ```
 ./NDeid_mac > result.txt
