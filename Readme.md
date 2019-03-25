@@ -13,7 +13,7 @@ cd NDeid_Mac-master
 unzip lib.zip
 ```
 
-To get offsets of PHIs from '.txt' files, place target files under 'NDeid/target' folder.
+To get offsets of PHIs from '.txt' files, place target files under 'NDeid_Mac-master/target' folder.
 
 ```
 ./NDeid_mac > result.txt
