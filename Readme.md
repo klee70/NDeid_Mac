@@ -1,10 +1,10 @@
-# NDeid
+# NDeid_mac
 
 NDeid is a standalone identification scrubber program which doesn't require tensorflow installation or word embeddings download. Currently this program has two versions, Mac & Linux.
 (For Linux compatible version: https://github.com/klee70/NDeid)
 
 
-## Using NDeid
+## Using NDeid_mac
 
 To use NDeid, download the repository into ZIP file and run the following commands from the terminal: 
 ```
