@@ -1,6 +1,6 @@
 # NDeid_mac
 
-Currently we're fixing protobuf library error. NDeID_mac's going to be available soon. We're sorry for the inconvenience.
+## Currently we're fixing protobuf library error. NDeID_mac's going to be available soon. We're sorry for the inconvenience.
 
 NDeid is a standalone identification scrubber program which doesn't require tensorflow installation or word embeddings download. Currently this program has two versions, Mac & Linux.
 (For Linux compatible version: https://github.com/klee70/NDeid)
