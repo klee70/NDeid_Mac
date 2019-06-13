@@ -23,3 +23,7 @@ To get offsets of PHIs from '.txt' files, place target files under 'NDeid_mac-ma
 ```
 ./NDeid_mac > result.txt
 ```
+
+### Citation
+
+K. Lee, Ö. Uzuner, and M. Kayaalp. A Standalone Ready-to-Use ANN App for Clinical Text De-identification: NDeID. In Proceedings of AMIA Clinical Informatics Conference, 2019.
